@@ -12,9 +12,9 @@ Based on Soda Theme by Ian Hill ([http://buymeasoda.com/](http://buymeasoda.com/
 
 ### Dark
 
-![Screenshot](http://f.cl.ly/items/0w473l2I1P2A3P3S1f0X/Image%202014-09-07%20at%207.56.05%20AM.png)
+![Screenshot](http://f.cl.ly/items/0B423I1f3D1H2t2h0n3B/Image%202014-09-07%20at%2011.32.55%20AM.png)
 
-(Add screeshots)
+(Add screeshots) 
 
 ## Installation
 
@@ -22,10 +22,14 @@ El Capitan theme is designed to work with the latest development builds of [Subl
 
 ### Using Sublime Package Control
 
+(Needs to be updated to reflect two different theme options)
+
 (Investigate Package Control)
 <!--If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Soda` in the packages list.-->
 
 ### Using Git
+
+(Needs to be updated to reflect two different theme options)
 
 Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
 
@@ -37,6 +41,8 @@ While inside the `Packages` directory, clone the theme repository using the comm
 
 ### Download Manually
 
+(Needs to be updated to reflect two different theme options)
+
 * Download the files using the GitHub .zip download option
 * Unzip the files and rename the folder to `Theme - El Capitan`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
@@ -47,6 +53,8 @@ While inside the `Packages` directory, clone the theme repository using the comm
 To configure Sublime Text to use the theme, follow the instructions below for your specific version.
 
 ### Sublime Text 3
+
+(Needs to be updated to reflect two different theme options)
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
 * Add (or update) your theme entry to be `"theme": "El Capitan.sublime-theme"`
@@ -60,7 +68,7 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 
 ### Code Font
 
-The code font shown in the screenshot is Monaco.
+The code font shown in the light screenshot is Monaco, in the dark is Panic Sans.
 
 ## Development
 
