@@ -6,7 +6,13 @@ Based on Soda Theme by Ian Hill ([http://buymeasoda.com/](http://buymeasoda.com/
 
 ## Design
 
+### Light
+
 ![Screenshot](https://raw.githubusercontent.com/wiki/iccir/El-Capitan-Theme/Screenshot.png)
+
+### Dark
+
+![Screenshot](http://f.cl.ly/items/0w473l2I1P2A3P3S1f0X/Image%202014-09-07%20at%207.56.05%20AM.png)
 
 (Add screeshots)
 
