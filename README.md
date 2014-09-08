@@ -1,5 +1,13 @@
 # El Capitan Theme
 
+This is a dark version of the El Capitan theme created by [Ricci Adams](https://github.com/iccir). 
+
+This README needs to be updated big time to reflect that. Most of the following is the same README from the original theme.
+
+At the moment this theme is not 100% functional. I hope for it to be that way early next week! However - it does, for the most part, work well on retina displays.
+
+---
+
 OS X Yosemite inspired light theme for Sublime Text 3.
 
 Based on Soda Theme by Ian Hill ([http://buymeasoda.com/](http://buymeasoda.com/))
