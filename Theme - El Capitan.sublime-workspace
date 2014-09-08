@@ -1,0 +1,2267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"overflow",
+				"overflow-y:   (property)"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"Pro",
+				"stopPropagation"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"thumb",
+				"thumb-picture"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"section",
+				"section-heading"
+			],
+			[
+				"b",
+				"bdrs	border-radius"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"date",
+				"tribe_event_format_date"
+			],
+			[
+				"event",
+				"eventsSlug"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/El Capitan Dark.sublime-theme",
+			"settings":
+			{
+				"buffer_size": 29945,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/README.md",
+			"settings":
+			{
+				"buffer_size": 3801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/Assets - Dark/Widget - El Capitan Dark.stTheme",
+			"settings":
+			{
+				"buffer_size": 1955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Material Color Scheme/Material.tmTheme",
+			"settings":
+			{
+				"buffer_size": 19257,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 543,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 374.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"export",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/Assets - Dark"
+	],
+	"file_history":
+	[
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/El Capitan Light.sublime-theme",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/README.md",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/El Capitan.sublime-theme",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/Widget - El Capitan.stTheme",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/README.md",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - Spacefunk/Spacefunk (Blue Monday).sublime-theme",
+		"/Library/WebServer/Documents/www/dev.aviatorgear.com/public_html/css/bootstrap/_grid.scss",
+		"/Library/WebServer/Documents/www/dev.aviatorgear.com/public_html/css/main.scss",
+		"/Library/WebServer/Documents/www/dev.aviatorgear.com/public_html/css/bootstrap/_navs.scss",
+		"/Library/WebServer/Documents/www/dev.aviatorgear.com/public_html/css/icons.data.svg.css",
+		"/Library/WebServer/Documents/www/dev.aviatorgear.com/public_html/css/icons.fallback.css",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/Gruntfile.js",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/index.html",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/js/main.js",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_type.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_variables.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/main.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_grid.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_pager.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/package.json",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/js/plugins.js",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_navbar.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_navs.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/fontawesome/_bordered-pulled.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/fonts/fontawesome-webfont.svg",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_wells.scss",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Material Color Scheme/Material.tmTheme",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - Spacefunk/Spacefunk (Grey Tuesday).sublime-theme",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Dark 3.sublime-theme",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 2/Packages/Theme - Soda (alt)/Soda Dark (alt).sublime-theme",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_buttons.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_forms.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_buttons.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_tables.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_grid.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/main.css",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/icons.data.svg.css",
+		"/Users/r3volution11/Documents/email.html",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_grid-framework.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/icons.fallback.css",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/bootstrap.scss",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_scaffolding.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_mixins.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_button-groups.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/fontawesome/font-awesome.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/fontawesome/_variables.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/slick.scss",
+		"/Volumes/doughardester/bin/tdm.sh",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_gradients.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/fontawesome/_core.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/fontawesome/_path.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/fontawesome/_icons.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_border-radius.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_image.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_resize.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_glyphicons.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/src/svg/help-orange.svg",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/humans.txt",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/src/svg/tagline-dark.svg",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_text-emphasis.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_badges.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/src/svg/search-white.svg",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/js/vendor/picturefill.min.js",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_panels.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/mixins/_nav-vertical-align.scss",
+		"/Users/r3volution11/Documents/Swank Share/Clients/AviatorGear/Development/v3/resources/Aviator Gear - Template.sublime-project",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_scaffolding.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_navbar.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/main.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_variables.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/index.html",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/gruntfile.js",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_type.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_grid.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_responsive-utilities.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_navs.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/js/plugins.js",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/bootstrap.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_utilities.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/bootstrap/_theme.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/_typeplate.scss",
+		"/Volumes/Storage/doughardester/Documents/Swank Share/Clients/AviatorGear/Development/v3/public_html/css/main.css",
+		"/Library/WebServer/Documents/www/dev.adirondacktreeexperts.com/public_html/wp-content/themes/adirondack/assets/css/icons.data.png.css",
+		"/Library/WebServer/Documents/www/dev.adirondacktreeexperts.com/public_html/wp-content/themes/adirondack/assets/css/icons.data.svg.css",
+		"/usr/local/mysql-5.6.19-osx10.7-x86_64/data/Andromeda.local.err",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/Website/Web/App_Templates/Skin_1/homeTemplate.master",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/Website/Web/App_Templates/Skin_1/css/style.css",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/Website/Web/App_Templates/Skin_1/._homeTemplate.master.orig",
+		"/Volumes/Storage/doughardester/Documents/nsc-temp/style.css",
+		"/Volumes/Storage/doughardester/Documents/nsc-temp/homeTemplate.master",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/Website/Web/web.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/Website/Web/shoppingcart.aspx",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/css/font-awesome.css",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/js/extended.js",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/css/style.css",
+		"/Volumes/Storage/doughardester/Downloads/t-general_questions.html",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/fonts/FontAwesome.otf",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/jscripts/formValidate.js",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/ASPDNSFCore/Feed.cs",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/ASPDNSFCommon/Excel.cs",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/ASPDNSFCore/StateTaxRate.cs",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/shoppingcart.aspx",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages/product.Sapphire.xml.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages/product.Setting.xml.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages/product.jewelry.xml.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages/product.charity.xml.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/ASPDNSFCore/Product.cs",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/ASPDNSFGatewayProcessors/GatewayMoneybookers/PaymentRequest.cs",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/ASPDNSFCore/Paging.cs",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/js/lib/plugins/jquery.geolify.js",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/web.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/template.master",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages/page.header-universal.xml.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/topics/geo_hello_bar_southafrica.htm",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/topics/geo_hello_bar_brazil.htm",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/topics/geo_hello_bar_france.htm",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/topics/geo_hello_bar_japan.htm",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/topics/geo_hello_bar_united_kingdom.htm",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/js/lib/plugins/money.min.js",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/js/lib/nsc-asset-viewer-1.0/nsc-asset-viewer.js",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages/page.header-checkout.xml.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages/page.footer-universal.xml.config",
+		"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/XmlPackages/page.orderconfirmation.xml.config"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com",
+			"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web",
+			"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com",
+			"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web",
+			"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates",
+			"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com",
+			"/Volumes/C/inetpub/wwwroot/www_thenaturalsapphirecompany_com/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1/XmlPackages",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com",
+			"<project>",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com/Web",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com/Web/XmlPackages",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com/Web/App_Templates/Skin_1",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com/Web",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com/Web/XmlPackages",
+			"/Volumes/C/inetpub/wwwroot/tnsc/www.thenaturalsapphirecompany.com/Web/NSCAdmin",
+			"/Library/WebServer/Documents/www/dev.swankibs.com/public_html/wp-content/plugins/woocommerce",
+			"/Library/WebServer/Documents/www/dev.swankibs.com/public_html/wp-content/plugins",
+			"/Volumes/www/dev.716broadway.org/public_html/wp-content/themes/responsive/events/community",
+			"/Volumes/www/dev.716broadway.org/public_html/wp-content/plugins/events-calendar-pro",
+			"/Volumes/www/dev.716broadway.org/public_html/wp-content/plugins/the-events-calendar",
+			"/Volumes/www/dev.716broadway.org/public_html/wp-content/themes/responsive/events/community",
+			"/Volumes/www/dev.716broadway.org/public_html/wp-content/plugins",
+			"/Volumes/www/dev.716broadway.org/public_html/wp-content/plugins/the-events-calendar/lib",
+			"/Volumes/www/dev.716broadway.org/public_html/wp-content/plugins",
+			"/Volumes/C/inetpub/wwwroot/dev.aspdotnetstorefront.swankify.com/trunk/Website",
+			"/Volumes/C/inetpub/wwwroot/dev.aspdotnetstorefront.swankify.com/trunk/Website/Web"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scroll",
+			"button",
+			"caret",
+			"0d0d0d",
+			"Assets",
+			"56, 56, 56",
+			"255, 255, 255",
+			"btn-sm",
+			".btn-secondary",
+			"resources",
+			"dropdown-gear",
+			".btn-secondary",
+			".dropdown-content .nav > li > a",
+			".page-navbar-nav > li > a",
+			".page-navbar-nav > li > a.page-navbar-nav > li > a",
+			".page-navbar-nav > li > a",
+			".page-navbar-nav a.navbar-has-icon:hover",
+			".page-navbar-nav .dropdown-content",
+			"-140px",
+			".page-navbar-nav > li > a",
+			".thumb-featured",
+			".hero-home",
+			"break-container",
+			".thumb",
+			"section-alt",
+			".thumb",
+			"cat-thumb",
+			"navbar-toggle close-nav",
+			"collapse",
+			"49,50,52",
+			"rgba(49,50,52,0.92)",
+			"rgba(49, 50, 52, 0.92)",
+			"background: rgba(49,50,52,.85);",
+			"page-navbar-nav",
+			"4e93d0",
+			"49,50,51",
+			"313233",
+			"49",
+			"49,",
+			"49,50,51",
+			"27,28,28",
+			"292a2b",
+			"41,42,43",
+			"28292a",
+			"91,92,93",
+			"61,62,63",
+			"37474f",
+			"comments",
+			"607d8b",
+			"f8f8f2",
+			"fff",
+			"9166de",
+			"865dcf",
+			"9166de",
+			"865dcf",
+			"labels",
+			"font.size",
+			".navbar-nav .open .dropdown-menu",
+			".page-navbar .navbar-collapse.in",
+			".page-navbar-nav > li > a",
+			"form-control",
+			".page-navbar-nav > .",
+			".thumb",
+			"dropdown-fullwidth",
+			"translatey",
+			"navbar-has-icon",
+			"thumb-has-caption ",
+			"main",
+			".slick-slide img",
+			"<div class=\"testimonial-name\">\n                                    Jane Doe\n                                </div>",
+			"has-subheading",
+			"alpha",
+			"thumb ",
+			"padding-vertical",
+			"-15px",
+			".page-navbar-nav",
+			".btn-navbar",
+			"navbar-padding-vertical",
+			"font-size",
+			"context-calc",
+			"$navbar-default-link-color",
+			"font-size-base",
+			".zeta",
+			"$font-base",
+			"$line-height",
+			"line-height",
+			"list-",
+			"home-ad ",
+			"home-ad",
+			".icon",
+			"button",
+			".col",
+			"cat",
+			".dyo-thumbnail",
+			"../fonts",
+			"notification-bar",
+			"compare",
+			".build-jewelry-container",
+			".thumbasset",
+			"reset your search",
+			"in-stock or compatible",
+			"font: 12px/12px Helvetica, sans-serif;",
+			"dyo-action-last-message",
+			"select",
+			".popup",
+			"fancybox",
+			"#breadcrumb",
+			"button-primary",
+			"ccc",
+			"background: #e9f2fd;\nbox-shadow: inset 1px 0 #cadef6, inset -1px 0 #cadef6;",
+			"ccc",
+			"#to-top",
+			"compare-count",
+			".button",
+			"button",
+			".block",
+			":497",
+			"text-shadow",
+			"f058",
+			"removeBtn.Text",
+			"remove",
+			"comparelist",
+			".remove",
+			"'Times New Roman'",
+			"TImes New",
+			"<h3",
+			"stone id",
+			"#product"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Assets - Light",
+			"Assets - Dark",
+			"-160px",
+			"155,156,157",
+			"91,92,93",
+			"325566",
+			"78a4ba",
+			"a98bde",
+			"9166de",
+			"dropdown-mega",
+			"",
+			"<span class=\"testimonial-name\">\n                                    Jane Doe\n                                </span>",
+			"has-subheading gamma",
+			"thumb thumb-framed ",
+			"thumb thumb-framed",
+			"home-cat",
+			"/App_Templates/Skin_1/fonts",
+			"button-secondary small",
+			"f057",
+			"Georgia",
+			"    ",
+			"Read Bio",
+			"    ",
+			"View More",
+			"class=\"popup-static\" rel=\"Staff\"",
+			"Read More",
+			"div",
+			"buy-note-bubble",
+			"Refine Your Results:",
+			"Show Sorting Section",
+			"small",
+			"btn-secondary",
+			"button-primary",
+			"10",
+			"header",
+			"<img src=\"\" alt=\"\">",
+			"<a href=\"#\"><img src=\"\" alt=\"\" class=\"ch-img\"></a>",
+			"<div class=\"ch-item-name\"><a href=\"#\">Project Name</a></div>",
+			"<a class=\"ch-item-name\">Project Name</a>",
+			"kite",
+			"wax-model",
+			"\"Learn",
+			"Learn",
+			"'",
+			"\"",
+			"'",
+			"\"",
+			"",
+			"\"",
+			"'",
+			"rectangle",
+			"/App_Templates/Skin_1/",
+			"rough",
+			"stone",
+			"popup-video",
+			"target=\"_blank\" rel=\"nofollow\"",
+			"p",
+			"oldie",
+			"text-right",
+			":focus",
+			"\"clearfix\"",
+			"carat",
+			"style",
+			"metal",
+			"9da2a3",
+			"300",
+			"grid",
+			"reference_title",
+			"reference_name",
+			"newfields",
+			"set",
+			"",
+			"change-display",
+			"",
+			"url",
+			"address-book"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/El Capitan Dark.sublime-theme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6064,
+								6064
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3364.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 17.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 0,
+					"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/El Capitan Dark.sublime-theme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1570.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Theme - El Capitan/Assets - Dark/Widget - El Capitan Dark.stTheme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1139,
+								1139
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/Material Color Scheme/Material.tmTheme",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38,
+								38
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/r3volution11/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Theme - El Capitan.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"_grid",
+				"css/bootstrap/_grid.scss"
+			],
+			[
+				"grid",
+				"css/bootstrap/_grid.scss"
+			],
+			[
+				"_type",
+				"css/bootstrap/_type.scss"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"vari",
+				"css/bootstrap/_variables.scss"
+			],
+			[
+				"grunt.js",
+				"Gruntfile.js"
+			],
+			[
+				"_navbar",
+				"css/bootstrap/_navbar.scss"
+			],
+			[
+				"plugins",
+				"js/plugins.js"
+			],
+			[
+				"_buttons",
+				"css/bootstrap/_buttons.scss"
+			],
+			[
+				"_tables",
+				"css/bootstrap/_tables.scss"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"butons",
+				"css/bootstrap/_buttons.scss"
+			],
+			[
+				"button",
+				"css/bootstrap/_button-groups.scss"
+			],
+			[
+				"font-aw",
+				"css/fontawesome/font-awesome.scss"
+			],
+			[
+				"slick",
+				"css/slick.scss"
+			],
+			[
+				"plugi",
+				"js/plugins.js"
+			],
+			[
+				"buttons",
+				"css/bootstrap/_buttons.scss"
+			],
+			[
+				"ma",
+				"js/main.js"
+			],
+			[
+				"icon",
+				"css/icons.fallback.css"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"typ",
+				"css/bootstrap/_type.scss"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"navbar",
+				"css/bootstrap/_navbar.scss"
+			],
+			[
+				"_nav",
+				"css/bootstrap/_navs.scss"
+			],
+			[
+				"butto",
+				"css/bootstrap/mixins/_buttons.scss"
+			],
+			[
+				"_butt",
+				"css/bootstrap/_buttons.scss"
+			],
+			[
+				"sc",
+				"css/bootstrap/_scaffolding.scss"
+			],
+			[
+				"nav",
+				"css/bootstrap/_navbar.scss"
+			],
+			[
+				"style.css",
+				"Web/App_Templates/Skin_1/css/style.css"
+			],
+			[
+				"web.config",
+				"Web/web.config"
+			],
+			[
+				"font-",
+				"Web/App_Templates/Skin_1/css/font-awesome.css"
+			],
+			[
+				"extended.js",
+				"Web/App_Templates/Skin_1/js/extended.js"
+			],
+			[
+				"product.sapp",
+				"Web/App_Templates/Skin_1/XmlPackages/product.Sapphire.xml.config"
+			],
+			[
+				"page.header-un",
+				"Web/App_Templates/Skin_1/XmlPackages/page.header-universal.xml.config"
+			],
+			[
+				"entity.subcategory.sapphires",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.SubCategory.Sapphires.xml.config"
+			],
+			[
+				"product.sapphire.",
+				"Web/App_Templates/Skin_1/XmlPackages/product.Sapphire.xml.config"
+			],
+			[
+				"product.setting",
+				"Web/App_Templates/Skin_1/XmlPackages/product.Setting.xml.config"
+			],
+			[
+				"requestcombinedimage",
+				"Web/requestcombinedimage.aspx.cs"
+			],
+			[
+				"buildjewl",
+				"Web/buildjewelry.aspx"
+			],
+			[
+				"product.",
+				"Web/App_Templates/Skin_1/XmlPackages/product.jewelry.xml.config"
+			],
+			[
+				"popup.aspx",
+				"Web/popup.aspx.cs"
+			],
+			[
+				"shopping",
+				"Web/shoppingcart.aspx"
+			],
+			[
+				"nsccomparelist",
+				"Web/controls/NSCControls/NSCCompareList.ascx.cs"
+			],
+			[
+				"compare",
+				"Web/controls/NSCControls/NSCCompareList.ascx"
+			],
+			[
+				"header",
+				"Web/App_Templates/Skin_1/XmlPackages/page.header-universal.xml.config"
+			],
+			[
+				"tmeplate.master",
+				"Web/App_Templates/Skin_1/template.master"
+			],
+			[
+				"footer",
+				"Web/App_Templates/Skin_1/XmlPackages/page.footer-checkout.xml.config"
+			],
+			[
+				"comparelist",
+				"Web/comparelist.aspx.cs"
+			],
+			[
+				"create",
+				"Web/createaccount.aspx"
+			],
+			[
+				"account.aspx",
+				"Web/account.aspx"
+			],
+			[
+				"securecheckout",
+				"Web/securecheckout.aspx.cs"
+			],
+			[
+				"styl-co.css",
+				"Web/App_Templates/Skin_1/css/style-co.css"
+			],
+			[
+				"style-co",
+				"Web/App_Templates/Skin_1/css/style-co.css"
+			],
+			[
+				"nscexten",
+				"Web/App_Code/NSCExtensionBase.cs"
+			],
+			[
+				"comparel",
+				"Web/comparelist.aspx"
+			],
+			[
+				"buildjew",
+				"Web/buildjewelry.aspx"
+			],
+			[
+				"entity.subcategory",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.SubCategory.Jewelry.Sale.xml.config"
+			],
+			[
+				"entity.subca",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.SubCategory.Settings.xml.config"
+			],
+			[
+				"entity.sapp",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.SubCategory.SapphirePairs.xml.config"
+			],
+			[
+				"entity.sub",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.SubCategory.Jewelry.xml.config"
+			],
+			[
+				"entity.jewel",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.JewelryCleaners.xml.config"
+			],
+			[
+				"rev.men",
+				"Web/App_Templates/Skin_1/XmlPackages/rev.top-menu.xml.config"
+			],
+			[
+				"meta",
+				"Web/App_Templates/Skin_1/XmlPackages/rev.meta.xml.config"
+			],
+			[
+				"nsccustomjew",
+				"Web/controls/NSCControls/NSCCustomJewelryHome.ascx.cs"
+			],
+			[
+				"nsce",
+				"Web/App_Code/NSCExtensionBase.cs"
+			],
+			[
+				"home",
+				"Web/App_Templates/Skin_1/homeTemplate.master"
+			],
+			[
+				"build",
+				"Web/buildjewelry.aspx"
+			],
+			[
+				"404",
+				"_Assets/Development/Old Site/Error Pages/error404.html"
+			],
+			[
+				"checkoutreview.aspx.cs",
+				"Web/checkoutreview.aspx.cs"
+			],
+			[
+				"checkoutreview",
+				"Web/checkoutreview.aspx"
+			],
+			[
+				"orderconfirmation",
+				"Web/orderconfirmation.aspx.cs"
+			],
+			[
+				"page.order",
+				"Web/XmlPackages/page.orderconfirmation.xml.config"
+			],
+			[
+				"orderconfirm",
+				"Web/orderconfirmation.aspx"
+			],
+			[
+				"checkoutprogress",
+				"Web/controls/NSCControls/CheckoutProgress.ascx"
+			],
+			[
+				"securecheckout.aspx",
+				"Web/securecheckout.aspx"
+			],
+			[
+				"page.header",
+				"Web/App_Templates/Skin_1/XmlPackages/page.header-universal.xml.config"
+			],
+			[
+				"template",
+				"Web/App_Templates/Skin_1/template.master"
+			],
+			[
+				"nscsecures",
+				"Web/controls/NSCControls/NSCSecureSignin.ascx"
+			],
+			[
+				"securesign",
+				"Web/securesignin.aspx"
+			],
+			[
+				"securesign.asp",
+				"Web/securesignin.aspx"
+			],
+			[
+				"securesignin.aspx",
+				"Web/securesignin.aspx.cs"
+			],
+			[
+				"securesignin.aspx.cs",
+				"Web/securesignin.aspx.cs"
+			],
+			[
+				"nscsign.as",
+				"Web/controls/NSCControls/NSCSignin.ascx.cs"
+			],
+			[
+				"nscsignin.",
+				"Web/controls/NSCControls/NSCSignin.ascx"
+			],
+			[
+				"page.footer",
+				"Web/App_Templates/Skin_1/XmlPackages/page.footer-universal.xml.config"
+			],
+			[
+				"page.un",
+				"Web/App_Templates/Skin_1/XmlPackages/page.footer-universal.xml.config"
+			],
+			[
+				"product.s",
+				"Web/App_Templates/Skin_1/XmlPackages/product.Sapphire.xml.config"
+			],
+			[
+				"progress",
+				"Web/controls/NSCControls/CheckoutProgress.ascx"
+			],
+			[
+				"page.foot",
+				"Web/App_Templates/Skin_1/XmlPackages/page.footer-universal.xml.config"
+			],
+			[
+				"securecheck",
+				"Web/securecheckout.aspx.cs"
+			],
+			[
+				"rev.met",
+				"Web/App_Templates/Skin_1/XmlPackages/rev.meta.xml.config"
+			],
+			[
+				"page.default",
+				"Web/XmlPackages/page.default.xml.config"
+			],
+			[
+				"product.sapphire",
+				"Web/App_Templates/Skin_1/XmlPackages/product.Sapphire.xml.config"
+			],
+			[
+				"page.",
+				"Web/App_Templates/Skin_1/XmlPackages/page.header-universal.xml.config"
+			],
+			[
+				"page.h",
+				"Web/App_Templates/Skin_1/XmlPackages/page.header-universal.xml.config"
+			],
+			[
+				"buidjew",
+				"Web/buildjewelry.aspx"
+			],
+			[
+				"page.head",
+				"Web/App_Templates/Skin_1/XmlPackages/page.header-universal.xml.config"
+			],
+			[
+				"exten",
+				"Web/App_Templates/Skin_1/js/extended.js"
+			],
+			[
+				"buildjewelry",
+				"Web/buildjewelry.aspx"
+			],
+			[
+				"swankopc",
+				"Web/OPCControls/SwankOPC.css"
+			],
+			[
+				"template.master",
+				"Web/App_Templates/Skin_1/template.master"
+			],
+			[
+				"hometemplate",
+				"Web/App_Templates/Skin_1/homeTemplate.master"
+			],
+			[
+				"extend",
+				"Web/App_Templates/Skin_1/js/extended.js"
+			],
+			[
+				"shop",
+				"Web/shoppingcart.aspx"
+			],
+			[
+				"extende",
+				"Web/App_Templates/Skin_1/js/extended.js"
+			],
+			[
+				"rev.meta",
+				"Web/App_Templates/Skin_1/XmlPackages/rev.meta.xml.config"
+			],
+			[
+				"page.defua",
+				"Web/XmlPackages/page.default.xml.config"
+			],
+			[
+				"entity.",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.ParentCategory.xml.config"
+			],
+			[
+				"style",
+				"Web/App_Templates/Skin_1/css/style.css"
+			],
+			[
+				"orderconfirma",
+				"Web/orderconfirmation.aspx.cs"
+			],
+			[
+				"order",
+				"Web/orderconfirmation.aspx"
+			],
+			[
+				"driver",
+				"Web/driver.aspx.cs"
+			],
+			[
+				"web",
+				"Web/web.config"
+			],
+			[
+				"djewelry",
+				"Web/buildjewelry.aspx"
+			],
+			[
+				"jewelryhome",
+				"Web/controls/NSCControls/NSCCustomJewelryHome.ascx"
+			],
+			[
+				"comparelis",
+				"Web/comparelist.aspx"
+			],
+			[
+				"shoppingcart.aspx",
+				"Web/shoppingcart.aspx.cs"
+			],
+			[
+				"shoppi",
+				"Web/shoppingcart.aspx"
+			],
+			[
+				"rev.menu",
+				"Web/App_Templates/Skin_1/XmlPackages/rev.top-menu.xml.config"
+			],
+			[
+				"sign",
+				"Web/signout.aspx"
+			],
+			[
+				"signin",
+				"Web/signin.aspx"
+			],
+			[
+				"smart",
+				"Web/smartcheckout.aspx"
+			],
+			[
+				"buildje",
+				"Web/buildjewelry.aspx.cs"
+			],
+			[
+				"entity.par",
+				"Web/App_Templates/Skin_1/XmlPackages/entity.ParentCategory.xml.config"
+			],
+			[
+				"emailcus",
+				"Web/controls/NSCControls/EmailCustomJewelry.ascx"
+			],
+			[
+				"shopp",
+				"Web/shoppingcart.aspx"
+			],
+			[
+				"extended",
+				"Web/App_Templates/Skin_1/js/extended.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
