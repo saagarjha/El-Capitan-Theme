@@ -1,5 +1,34 @@
 [
 //
+// FONTS
+//
+    { "class": "tab_label",              "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "label_control",          "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "tool_tip_label_control", "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "sidebar_heading",        "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "sidebar_label",          "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
+
+    // Settings
+    { "class": "tab_label",              "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
+    { "class": "tab_label",              "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
+    { "class": "tab_label",              "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+
+    { "class": "label_control",          "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
+    { "class": "label_control",          "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
+    { "class": "label_control",          "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+
+    { "class": "tool_tip_label_control", "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
+    { "class": "tool_tip_label_control", "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
+    { "class": "tool_tip_label_control", "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+
+    { "class": "sidebar_heading",        "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
+    { "class": "sidebar_heading",        "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
+    { "class": "sidebar_heading",        "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+
+    { "class": "sidebar_label",          "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
+    { "class": "sidebar_label",          "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
+    { "class": "sidebar_label",          "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+//
 // TABS (REGULAR)
 //
 
@@ -78,7 +107,7 @@
         "class": "tab_close_button",
         "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
         "layer0.texture": "Theme - El Capitan/Assets - Dark/tab-dirty.png",
-        "layer0.opacity": 0.5   
+        "layer0.opacity": 0.5
     },
     // Tab close button hover
     {
@@ -104,8 +133,7 @@
         "fg": [174, 174, 174],
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0],
-        "font.face": "Helvetica Neue",
-        "font.size": 11,
+        "font.size": 11.5,
         "font.italic": false
     },
     {
@@ -174,7 +202,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - El Capitan/Assets - Dark/group-closed.png",
+        "layer0.texture": "Theme - El Capitan/Assets - Dark/fold-closed.png",
         "layer0.inner_margin": 0,
         "content_margin": [8, 8],
         "layer0.tint": [ 124, 124, 124 ],
@@ -189,7 +217,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - El Capitan/Assets - Dark/group-open.png",
+        "layer0.texture": "Theme - El Capitan/Assets - Dark/fold-open.png",
         "layer0.tint": [ 124, 124, 124 ],
         "layer0.opacity": 1.0
     },
@@ -387,7 +415,6 @@
     {
         "class": "label_control",
         "color": [255,255,255],
-        "font.face": "Helvetica Neue"        
     },
     // Text field labels
     {
@@ -420,7 +447,6 @@
     {
         "class": "tool_tip_label_control",
         "color": [0, 0, 0],
-        "font.face": "Helvetica Neue"
     },
 
 //
@@ -465,8 +491,8 @@
     {
         "class": "sidebar_tree",
         "row_padding": [8, 3],
-        "indent": 10,
-        "indent_offset": 10,
+        "indent": 13,
+        "indent_offset": 13,
         "indent_top_level": false
     },
     // Sidebar rows
@@ -481,14 +507,12 @@
         "class": "tree_row",
         "attributes": ["selected"],
         "layer0.opacity": 1.0
-
     },
     // Sidebar heading
     {
         "class": "sidebar_heading",
         "color": [255,255,255],
-        "font.bold": false,
-        "font.face": "Helvetica Neue Medium",
+        "font.bold": true,
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0]
     },
@@ -504,7 +528,6 @@
         "color": [124,124,124],
         "shadow_color": [255, 255, 255],
         "shadow_offset": [0, 0],
-        "font.face": "Helvetica Neue",
         "font.bold": false,
         "font.italic": false
     },
@@ -512,7 +535,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
-        "color": [ 174,174,174 ]
+        "color": [174,174,174]
     },
     {
         "class": "sidebar_label",
@@ -639,28 +662,29 @@
     // Sidebar folder closed
     {
         "class": "icon_folder",
-        "layer0.texture": "Theme - El Capitan/Assets - Dark/folder-closed.png",
-        "layer0.opacity": 1,
+        "layer0.texture": "Theme - El Capitan/Assets - Dark/folder.png",
+        "layer0.opacity": 1.0,
         "layer0.tint": [ 124,124,124 ],
         "content_margin": [8, 8]
-    },
-    {
-        "class": "icon_folder",
-        "parents": [{"class": "tree_row", "attributes": ["hover"]}],
-        "layer0.opacity": 1,
-        "layer0.tint": [ 255,255,255 ],
-    },
-    {
-        "class": "icon_folder",
-        "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "layer0.tint": [ 255, 255, 255 ],
-        "layer0.opacity": 1
     },
     // Sidebar folder open
     {
         "class": "icon_folder",
         "parents": [{"class": "tree_row", "attributes": ["expanded"]}],
-        "layer0.texture": "Theme - El Capitan/Assets - Dark/folder-open.png"
+        "layer0.texture": "Theme - El Capitan/Assets - Dark/folder_opened.png"
+    },
+    // Sidebar folder closed (blue)
+    {
+        "class": "icon_folder",
+        "settings": [ "el_capitan_sidebar_blue_folders" ],
+        "layer0.texture": "Theme - El Capitan/Assets - Dark/folder_blue.png",
+    },
+    // Sidebar folder open (blue)
+    {
+        "class": "icon_folder",
+        "settings": [ "el_capitan_sidebar_blue_folders" ],
+        "layer0.tint": [ 255, 255, 255 ],
+        "layer0.texture": "Theme - El Capitan/Assets - Dark/folder_blue_opened.png"
     },
     // Sidebar folder loading
     {
@@ -794,9 +818,9 @@
     {
         "class": "quick_panel_label",
         "fg": [255, 255, 255],
-        "match_fg": [0, 0, 0 ],
+        "match_fg": [0, 0, 0],
         "selected_fg": [40, 40, 40 ],
-        "selected_match_fg": [0, 0, 0 ]
+        "selected_match_fg": [0, 0, 0]
     },
     {
         "class": "quick_panel_path_label",
@@ -1069,6 +1093,13 @@
         "class": "icon_highlight",
         "parents": [{"class": "icon_button_control", "attributes": ["selected"]}],
         "layer0.tint": [255, 255, 255]
-    }
+    },
 
+// @TITLE BAR
+    // App title bar
+    {
+        "class": "title_bar",
+        "fg": [255, 255, 255],
+        "bg": [47, 47, 47]
+    },
 ]

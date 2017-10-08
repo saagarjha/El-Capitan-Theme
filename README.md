@@ -1,43 +1,27 @@
 # El Capitan Theme
 
-This is a dark version of the El Capitan theme created by [Ricci Adams](https://github.com/iccir). 
-
-This README needs to be updated big time to reflect that. Most of the following is the same README from the original theme.
-
-At the moment this theme is not 100% functional. I hope for it to be that way early next week! However - it does, for the most part, work well on retina displays.
-
----
-
-OS X Yosemite inspired light theme for Sublime Text 3.
+OS X inspired light theme for Sublime Text 3.
 
 Based on Soda Theme by Ian Hill ([http://buymeasoda.com/](http://buymeasoda.com/))
 
 ## Design
 
-### Light
-
 ![Screenshot](https://raw.githubusercontent.com/wiki/iccir/El-Capitan-Theme/Screenshot.png)
 
-### Dark
+Also available in a [dark version](https://github.com/r3volution11/El-Capitan-Theme), courtesy of [Doug Hardester](https://github.com/r3volution11)!
 
-![Screenshot](http://f.cl.ly/items/0B423I1f3D1H2t2h0n3B/Image%202014-09-07%20at%2011.32.55%20AM.png)
+The code font shown in the screenshot is Monaco.  The color scheme is [Xcode-ish](https://gist.github.com/iccir/b999104536ce8211e5e7).
 
-(Add screeshots) 
 
 ## Installation
 
 El Capitan theme is designed to work with the latest development builds of [Sublime Text 3](http://www.sublimetext.com/3dev).
 
-### Using Sublime Package Control
+#### Package Control
 
-(Needs to be updated to reflect two different theme options)
+If you are using [Sublime Package Control](https://packagecontrol.io), you can easily install the theme via `Package Control: Install Package` and then select the  `Theme - El Capitan` package.
 
-(Investigate Package Control)
-<!--If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install Soda Theme via the `Package Control: Install Package` menu item. The Soda Theme package is listed as `Theme - Soda` in the packages list.-->
-
-### Using Git
-
-(Needs to be updated to reflect two different theme options)
+#### Using Git
 
 Alternatively, if you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory in the Sublime Text application settings area.
 
@@ -47,22 +31,16 @@ While inside the `Packages` directory, clone the theme repository using the comm
 
     git clone https://github.com/iccir/El-Capitan-Theme/ "Theme - El Capitan"
 
-### Download Manually
-
-(Needs to be updated to reflect two different theme options)
+#### Download Manually
 
 * Download the files using the GitHub .zip download option
 * Unzip the files and rename the folder to `Theme - El Capitan`
 * Find your `Packages` directory using the menu item  `Preferences -> Browse Packages...`
 * Copy the folder into your Sublime Text `Packages` directory
 
-## Activating the theme
+## Activating and configuring the theme
 
-To configure Sublime Text to use the theme, follow the instructions below for your specific version.
-
-### Sublime Text 3
-
-(Needs to be updated to reflect two different theme options)
+To configure Sublime Text to use the theme, follow the instructions below:
 
 * Open your User Settings Preferences file `Sublime Text -> Preferences -> Settings - User`
 * Add (or update) your theme entry to be `"theme": "El Capitan.sublime-theme"`
@@ -70,13 +48,20 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 **Example Sublime Text 3 User Settings**
 
     {
-        "theme": "El Capitan.sublime-theme"
+        "theme": "El Capitan.sublime-theme",
+        
+        "el_capitan_font_default": false,
+        "el_capitan_font_san_francisco": false,
+        "el_capitan_font_helvetica_neue": false,
+        "el_capitan_font_helvetica": false,
+        "el_capitan_sidebar_blue_folders": false
     }
 
-
-### Code Font
-
-The code font shown in the light screenshot is Monaco, in the dark is Panic Sans.
+* `el_capitan_font_default` - If `true`, prevents the theme from specifying fonts (for systems without Helvetica Neue or SF)
+* `el_capitan_font_san_francisco` - If `true`, the font is explicitly set to San Francisco
+* `el_capitan_font_helvetica_neue` - If `true`, the font is explicitly set to Helvetica Neue
+* `el_capitan_font_helvetica` - If `true`, the font is explicitly set to Helvetica
+* `el_capitan_sidebar_blue_folders` - If `true`, the sidebar uses blue folders rather than Xcode-style yellow folders.
 
 ## Development
 
