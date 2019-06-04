@@ -2,32 +2,32 @@
 //
 // FONTS
 //
-    { "class": "tab_label",              "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "label_control",          "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "tool_tip_label_control", "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "sidebar_heading",        "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
-    { "class": "sidebar_label",          "font.face": ".SFNSText-Regular", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "tab_label",              "font.face": ".AppleSystemUIFont", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "label_control",          "font.face": ".AppleSystemUIFont", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "tool_tip_label_control", "font.face": ".AppleSystemUIFont", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "sidebar_heading",        "font.face": ".AppleSystemUIFont", "settings": [ "!el_capitan_font_default" ] },
+    { "class": "sidebar_label",          "font.face": ".AppleSystemUIFont", "settings": [ "!el_capitan_font_default" ] },
 
     // Settings
     { "class": "tab_label",              "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
     { "class": "tab_label",              "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "tab_label",              "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "tab_label",              "font.face": ".AppleSystemUIFont", "settings": [ "el_capitan_font_san_francisco"  ] },
 
     { "class": "label_control",          "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
     { "class": "label_control",          "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "label_control",          "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "label_control",          "font.face": ".AppleSystemUIFont", "settings": [ "el_capitan_font_san_francisco"  ] },
 
     { "class": "tool_tip_label_control", "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
     { "class": "tool_tip_label_control", "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "tool_tip_label_control", "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "tool_tip_label_control", "font.face": ".AppleSystemUIFont", "settings": [ "el_capitan_font_san_francisco"  ] },
 
     { "class": "sidebar_heading",        "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
     { "class": "sidebar_heading",        "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "sidebar_heading",        "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "sidebar_heading",        "font.face": ".AppleSystemUIFont", "settings": [ "el_capitan_font_san_francisco"  ] },
 
     { "class": "sidebar_label",          "font.face": "Helvetica",         "settings": [ "el_capitan_font_helvetica"      ] },
     { "class": "sidebar_label",          "font.face": "Helvetica Neue",    "settings": [ "el_capitan_font_helvetica_neue" ] },
-    { "class": "sidebar_label",          "font.face": ".SFNSText-Regular", "settings": [ "el_capitan_font_san_francisco"  ] },
+    { "class": "sidebar_label",          "font.face": ".AppleSystemUIFont", "settings": [ "el_capitan_font_san_francisco"  ] },
 //
 // TABS (REGULAR)
 //
@@ -734,7 +734,7 @@
         "layer0.texture": "Theme - El Capitan/Assets - Light/text-field.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [8, 8, 8, 8],
-        "content_margin": [3, 3, 6, 3]
+        "color_scheme_tint": [255, 255, 255]
     },
 
     // Text input dropdown
